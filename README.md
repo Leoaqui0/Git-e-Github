@@ -1,3 +1,3 @@
 # JavaScript
-Estudo de javaScript
+Estudo de **JavaScript**
 Criado por Leozin
